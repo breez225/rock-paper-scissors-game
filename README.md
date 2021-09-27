@@ -1,7 +1,5 @@
 # rock-paper-scissors-game
 
-# My First Python App
-
 An example Python application for students to run to test their local development environment setups.
 
 ## Prerequisites
